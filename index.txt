@@ -1,2 +1,1 @@
-This text was written in the develop branch
-This text was written in the feature-1 branch
+This text was entered in the feature-1 branch
