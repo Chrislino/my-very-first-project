@@ -2,3 +2,7 @@ This text was entered in the feature-1 branc
 This is the newest file
 This was created in the feature-2 branch
 This was created in the feature-3 bannch
+This was created in the feature-4 bannch
+This was created in the feature-5 branch
+This was created in the feature-x branch
+This was created in the beatie branch as a work i tried at home.
